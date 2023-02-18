@@ -31,7 +31,7 @@
   <p> Occassionally, I mentor ladies that are just transitioning to tech and need help and support finding their niche. You can reach out to me if this is you or you can also join our community at <a href="https://twitter.com/hertechchoice">HerTechChoice</a> :rose:</p>
   <p> I often dive in and out of Project and Developer management at my current role.</p>
   <p> I am also a blockchain enthusiast and I just began to learn to build on the solana network, excited at this journey! :rocket:</p>
-  <p> I am also currently learning Docker, AWS and toi be good at Technical content writing :books:</p>
+  <p> I am also currently learning Docker, AWS and to be good at Technical content writing :books:</p>
   <p> Talk to me about anything frontend development, happy to help! </p>
   <p> I am also available for Frontend developer roles anywhere :earth_africa:</p>
   <p> Outside the Tech world, I'm a  <a href="https://www.instagram.com/p/CZ2SDZUqcql/?igshid=YmMyMTA2M2Y=">Beauty Creator</a> and I'm also building out my gadgets store </p>
