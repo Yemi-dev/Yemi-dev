@@ -34,7 +34,7 @@
   <p> I am also currently learning Docker, AWS and to be good at Technical content writing :books:</p>
   <p> Talk to me about anything frontend development, happy to help! </p>
   <p> I am also available for Frontend developer roles anywhere :earth_africa:</p>
-  <p> Outside the Tech world, I'm a  <a href="https://www.instagram.com/p/CZ2SDZUqcql/?igshid=YmMyMTA2M2Y=">Beauty Creator</a> and I'm also building out my gadgets store </p>
+  <p> Outside Tech, I love to play games and my favorite one at the moment is Fortnite! &#129346 </p>
 </div>
 <div id="tech-stack">
   <br></br>
