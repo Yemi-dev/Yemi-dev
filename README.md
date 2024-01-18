@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" align="center" width="100%"/>
   <h2>Hi there 👋, I'm Yemi :cherry_blossom: and I am interested in </h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?     font=Fira+Code&weight=600&pause=1000&color=3E9EBA&center=true&vCenter=true&width=435&lines=%3C%3E+Frontend+Development++%F0%9F%8E%AF+%3C%2F%3E;%3C%3E+Technical+Writing++%F0%9F%8E%97%EF%B8%8F+%3C%2F%3E;%3C%3E+Blockchain+Development++%F0%9F%93%9A+%3C%2F%3E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?     font=Fira+Code&weight=600&pause=1000&color=3E9EBA&center=true&vCenter=true&width=435&lines=%3C%3E+Fullstack+Development++%F0%9F%8E%AF+%3C%2F%3E;%3C%3E+Technical+Writing++%F0%9F%8E%97%EF%B8%8F+%3C%2F%3E;%3C%3E+Blockchain+Development++%F0%9F%93%9A+%3C%2F%3E" alt="Typing SVG" /></a>
 </div>
 
 <div id="badges" align="center">
