@@ -27,12 +27,12 @@
    <br></br>
   My Gist  :speaking_head:
   <br></br>
-  <p> I am currently working as a MERN Fullstack engineer using React, Next, Node, Express, Typescript and Javascript interchangeably to build and contribute to web applications</p>
-  <p> Occassionally, I mentor ladies that are just transitioning to tech and need help and support finding their niche. You can reach out to me if this is you or you can also join our community at <a href="https://twitter.com/hertechchoice">HerTechChoice</a> :rose:</p>
+  <p> I am currently working as a MERN Fullstack developer using React, Nextjs, Nodejs, Express, Typescript and Javascript interchangeably to build and contribute to web and mobile software products</p>
+  <p> Occassionally, I mentor ladies that are just transitioning to tech and need help and support finding their niche. You can reach out to me if this is you or you can also join the community at <a href="https://twitter.com/hertechchoice">HerTechChoice</a> :rose:</p>
   <p> I am also a blockchain enthusiast and I just began to learn to build on the solana network, excited at this journey! :rocket:</p>
   <p> I am also currently learning Docker, AWS and to be good at Technical content writing :books:</p>
-  <p> Talk to me about anything frontend development, happy to help! </p>
-  <p> Outside Tech, I love to play games and my favorite one at the moment is Fortnite! &#129346 </p>
+  <p> Talk to me about anything software development, happy to help! </p>
+  <p> Outside Tech, I love to explore other careers, travel the world and play games. My favorite one at the moment is Fortnite! &#129346 </p>
 </div>
 <div id="tech-stack">
   <br></br>
