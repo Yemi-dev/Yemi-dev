@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" align="center" width="100%"/>
   <h2>Hi there 👋, I'm Yemi :cherry_blossom: and I am interested in </h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering;AI+Engineering;Technical+Analysis;Great+Vibes" alt="Typing SVG" align="center" width="100%" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering;AI+Engineering;Technical+Analysis;Great+Vibes" alt="Typing SVG" align="center" fontSize="14px"/></a>
 </div>
 
 <div id="badges" align="center">
